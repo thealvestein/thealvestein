@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, I'm Vitor Alves! :v:
 
-<!--
-**thealvestein/thealvestein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: Systems analysis and development student<br>
+:wrench: Web software engineer<br>
+:earth_americas: Living in Santos, Brazil<br>
+:rocket: Technology enthusiast
 
-Here are some ideas to get you started:
+### I work with :pencil2:
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><br><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> <img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><br><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+  	 	 
+### Find me on :magnet:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:camera: [Instagram](https://www.instagram.com/thealvestein)<br> 
+:triangular_flag_on_post: [HackerRank](https://www.hackerrank.com/thealvestein?hr_r=1)<br>
