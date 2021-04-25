@@ -1,8 +1,8 @@
 ### Hello, I'm Vitor Alves! :v:
 
 :computer: Systems analysis and development student<br>
-:wrench: Web software engineer<br>
 :earth_americas: Living in Santos, Brazil<br>
+:wrench: Java back-end developer<br>
 :rocket: Technology enthusiast
 
 ### I work with :pencil2:
