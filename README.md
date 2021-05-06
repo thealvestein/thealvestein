@@ -1,4 +1,4 @@
-### Hello, I'm Vitor Alves! :v:
+### Hello, I'm Alvin! :v:
 
 :computer: Systems analysis and development student<br>
 :wrench: Java back-end developer<br>
