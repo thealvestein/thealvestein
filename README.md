@@ -11,4 +11,3 @@
 ### Find me on :magnet:
 
 :camera: [Instagram](https://www.instagram.com/thealvestein)<br> 
-:triangular_flag_on_post: [HackerRank](https://www.hackerrank.com/thealvestein?hr_r=1)<br>
